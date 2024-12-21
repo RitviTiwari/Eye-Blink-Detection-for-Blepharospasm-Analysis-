@@ -35,3 +35,9 @@ This project focuses on detecting abnormal blinking patterns to identify potenti
 
 5.If blinking exceeds a defined threshold (e.g., 20 blinks per minute), the system flags a potential case of blepharospasm.
 
+# Setup Instructions:
+
+1. Download the `shape_predictor_68_face_landmarks.dat` file from [this link](https://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
+2. Extract the file and place it in the project directory.
+
+
